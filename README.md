@@ -49,11 +49,9 @@ Escolha as instruções baseadas no seu sistema operacional:
    pip3 install -r requirements.txt
    
    se der "ERRO" pergunte para uma IA, ou digite isso:
-python3 -m venv venv
-
-source venv/bin/activate
-
-pip3 install -r requirements.txt
+   python3 -m venv venv
+   source venv/bin/activate
+   pip3 install -r requirements.txt
 ```
 
 3. **Inicie o programa**:

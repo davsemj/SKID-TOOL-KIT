@@ -52,8 +52,7 @@ Escolha as instruções baseadas no seu sistema operacional:
    python3 -m venv venv
    source venv/bin/activate
    pip3 install -r requirements.txt
-```
-
+   ```
 3. **Inicie o programa**:
    ```bash
    python3 main.py

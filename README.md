@@ -20,7 +20,7 @@ Escolha as instruções baseadas no seu sistema operacional:
 
 1. **Baixe o projeto** ou clone o repositório:
    ```cmd
-   git clone https://github.com/davsemj/SKID-TOOL-KIT
+   https://github.com/vscdroot/SKID-TOOL-KIT.git
    cd SKID-TOOL-KIT
    ```
 
@@ -40,7 +40,7 @@ Escolha as instruções baseadas no seu sistema operacional:
 
 1. **Abra o terminal** e baixe o projeto:
    ```bash
-   git clone https://github.com/davsemj/SKID-TOOL-KIT
+   https://github.com/vscdroot/SKID-TOOL-KIT.git
    cd SKID-TOOL-KIT
    ```
 

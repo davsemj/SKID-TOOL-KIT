@@ -1,10 +1,11 @@
-# 🛠️ SKID TOOL KIT
----
 
 <p align="center">
   Made by <a href="https://github.com/davsemj">davsemj</a> and <a href="https://github.com">zaza112</a>
 </p>
 
+
+# 🛠️ SKID TOOL KIT
+---
 Este é um kit de ferramentas em Python feito para rodar direto no terminal. Ele possui módulos de segurança, redes, criptografia e automação.
 
 ## 📋 Pré-requisitos

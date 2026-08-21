@@ -67,8 +67,8 @@ def main_initial_menu():
             show_banner()
 
             menu_options = [
-                ("1", "Toolkits", "Acessar todos os módulos e ferramentas do Nether"),
-                ("2", "Sair", "Encerrar o Nether Toolkit"),
+                ("1", "Toolkits", "Acessar todos os módulos e ferramentas do SKID"),
+                ("2", "Sair", "Encerrar o SKID Toolkit"),
             ]
 
             print_table("Menu Principal", ["Opção", "Ação", "Descrição"], menu_options, style="red")

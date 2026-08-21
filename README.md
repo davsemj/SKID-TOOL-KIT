@@ -53,3 +53,37 @@ Escolha as instruções baseadas no seu sistema operacional:
 * `main.py`: Arquivo principal que abre o menu do terminal.
 * `modules/`: Pasta com as ferramentas (Bruteforce, Criptografia, Redes, Malware, etc).
 * `utils/`: Funções de ajuda para exibição e telas.
+
+             davsemj@kali          
+ _    _           _         _
+|  \/  | __ _  __| | ___   | |__  _   _ 
+| |\/| |/ _` |/ _` |/ _ \  | '_ \| | | |
+| |  | | (_| | (_| |  __/  | |_) | |_| |
+|_|  |_|\__,_|\__,_|\___|  |_.__/ \__, |
+                                  |___/ 
+     _                                
+  __| | __ ___    ___  ___ _ __ ___   (_)
+ / _` |/ _` \ \ / / __|/ _ \ '_ ` _ \ | |
+| (_| | (_| |\ V /\__ \  __/ | | | | || |
+ \__,_|\__,_| \_/ |___/\___|_| |_| |_|/ |
+                                     |__/  
+            ..,;:ccc,.
+          ......''';lxO.                         
+.....''''..........,:ld;                         
+           .';;;:::;,,.x,                        
+      ..'''.            0Xxoc:,.  ...            
+  ....                ,ONkc;,;cokOdc',.          
+ .                   OMo           ':ddo.        
+                    dMc               :OO;      
+                    0M.                 .:o.    
+                    ;Wd                         
+                     ;XO,                        
+                       ,d0Odlc;,..              
+                           ..',;:cdOOd::,.
+                                    .:d;.':;.
+                                       'd,  .'
+                                         ;l   ..
+                                          .o
+                                            c
+                                            .'
+              

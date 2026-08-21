@@ -1,6 +1,6 @@
 
 <p align="center">
-  Made by <a href="https://github.com/davsemj">davsemj</a> and <a href="https://github.com">zaza112</a>
+  Made by <a href="https://github.com/vscdroot">vscd</a> and <a href="https://github.com">zaza112</a>
 </p>
 
 

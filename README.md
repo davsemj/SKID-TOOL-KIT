@@ -40,7 +40,7 @@ Escolha as instruções baseadas no seu sistema operacional:
 
 1. **Abra o terminal** e baixe o projeto:
    ```bash
-   https://github.com/vscdroot/SKID-TOOL-KIT.git
+   git clone https://github.com/vscdroot/SKID-TOOL-KIT.git
    cd SKID-TOOL-KIT
    ```
 

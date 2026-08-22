@@ -34,7 +34,7 @@ def clear_screen():
     os.system('cls' if os.name == 'nt' else 'clear')
 
 def show_banner(subtitle: str = ""):
-    """Exibe o banner NETHER em vermelho."""
+    """Exibe o banner skid em vermelho."""
     if HAS_RICH:
         # Banner NETHER em vermelho vivo
         banner_text = Text(SKID_BANNER, style="bold red")
@@ -99,7 +99,7 @@ def print_panel(content: str, title: str = "", style: str = "red"):
         print("-" * (len(title) + 8))
 
 def print_table(title: str, columns: list, rows: list, style: str = "red"):
-    """Exibe uma tabela com estilo Vermelho e Branco do Nether."""
+    """Exibe uma tabela com estilo Vermelho e Branco do skid."""
     if HAS_RICH:
         table = Table(
             title=f"[bold white on red] {title} [/bold white on red]",
